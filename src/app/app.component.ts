@@ -11,4 +11,14 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 })
 export class AppComponent {
   title = 'cuatro-angular';
+
+  constructor(){
+    console.log('funcion de prueba');
+    console.warn('advertenccia');
+    console.log('prueba de conflictos');
+    
+    
+    
+  }
+
 }
