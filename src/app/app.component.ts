@@ -13,11 +13,9 @@ export class AppComponent {
   title = 'cuatro-angular';
 
   constructor(){
-    console.log('funcion de prueba');
-    console.warn('advertenccia');
-    console.log('prueba de conflictos');
-    
-    
+    console.log('Nuevas funciones');
+    console.warn('Cuidado');
+    console.log('Prueba de conflictos');
     
   }
 
